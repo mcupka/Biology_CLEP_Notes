@@ -1,0 +1,56 @@
+1.5.2 Mitosis, Meiosis, Cytokinesis
+
+Interphase: 90% of cell's life, DNA is copied (G1, S, G2)
+
+Mitotic Phase, parent cell splits into two identical daughter cells
+{
+Mitosis (PMAT):
+-Prophase, chromosomes condense
+-Metaphase, chromosomes align on metaphase plate
+-Anaphase, chromosomes pulled to poles
+-Telophase, chromosomes decondense
+
+Cytokinesis: parent cell splits into 2 identical daughter cells (2n)
+}
+
+
+Meiosis: forms 4 unique haploid cells (1n)
+-sperm in testes and eggs in ovaries
+-2 parts: Meiosis I and Meiosis II
+
+Meiosis I:
+-stages same as mitosis (PMAT & C), however crossing over occurs in Prophase I, resulting in new combinations of genes that weren't present in the parent cell
+-crossing over give the child combination of genese from both parents, instead of just all of one or all of the other.
+
+Meiosis II:
+-Same as mitosis stages
+-end product is four haploid cells, instead of the 2 that result from mitosis & meiosis I
+
+
+The Cell Cycle: an ordered series of events involving cell growth and cell division that produces two new daughter cells.
+-growth, dna replication, division
+-2 major phases: interphase and the mitotic phase
+-Interphase: cell grows and DNA is replicated
+-Mitotic Phase: replicated DNA and cytoplasm contents are separated, and the cell divides
+
+Interphase:
+-G1 Phase (First Gap): Cell accumulates building blocks of chromosomal DNA and the associated proteins, as well as the energy reserve required for replicating each chromosome.
+-S Phase (Synthesis of DNA): forms idential pairs of DNA molecules, sister chromatids. The centrosome is duplicated as well, creating the mitotic spindle, which orchestrates the movement of chromosomes during mitosis.
+-G2 Phase (Second Gap): The cell replenishes its energy storesand synthesizes proteins needed for chromosomal manipulation.
+
+Mitotic Phase: Karyokinesis aka Mitosis (PMAT) and Cytokinesis
+-Prophase: Chromosomes condense, spindle fibers emerge from centrosomes, nuclear envelope breaks dokwn
+-Prometaphase: More condensing, kineticores appear at centromeres, mitotic spindle microtubules attatch to kinetochores, centrosomes move toward opposite poles
+-Metaphase: Centrosomes are at opposite poles, chromosomes lined up at metaphase plate, spindle fibers from each centrosome attatch to sister chromatids
+-Anaphase: Proteins binding sisters breaks down, sister chromosomes pulled toward opposite poles, spindle fibes lengthen and elongate cell
+-Telophase: Chromosomes arrive at poles and begin to decondense, nuclear envelopes form around each set of chromosomes, mitotic spindle breaks down
+-Cytokinesis: A cleavage furrow (Animal Cells) or a cell plate (Plant Cells) separates the daughter cells.
+
+
+G0 Phase: The cell is dormant and not entering the preparatory phases of interphase.
+
+Binary Fission: Done by prokaryotes, much simpler division than mitosis.
+
+Meisois: 1 Diploid (2n) -> 4 Haploids (1n)
+-Meiosis 1 involves crossover. It results in 2 haploids of mixed genes. Reduction division.
+-Meiosis 2 is almost identical to mitosis. Replicates 2 haploids into 4 haploids, each now distinct from each other because of the previous crossover.

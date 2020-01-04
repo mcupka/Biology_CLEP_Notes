@@ -1,0 +1,42 @@
+1.5.1 Structure of Chromosomes
+
+Chromatin: Form DNA is found in before it's replicated. Unwound like a pile o f yarn
+Chromosome: DNA wound up, right before mitosis. Wound around proteins called histones. Each group of histones w/ dna wound around is called a nucleosome.
+Sister Chromatids: copies of each other, made before mitosis.
+Centromere: visible constriction, holds chromatids together.
+Homologous Chromosomes: have genes coding for the same characteristics, in the same location. Roughly same shape and size. Pair up before mitosis.
+	-Alleles: Variations of the same gene, found on homologous chromosomes. Ex, in gene coding for hair color, one allele for black hair, another for blonde hair.
+Ploidy: Denotes number of copies of genes / chromosomes in organism, abbreviated as a number and the letter "n" Ex
+	-Haploid: 1n, having 1 copy of each gene
+	-Diploid: 2n, having 2 copies of each gene
+	-From moment of ferilization, humans are 2n, only sperm and eggs are haploid.
+Karyotype: picture of chromosomes
+	-For humans, 2n = 46 chromosomes
+	-sex chromosomes are #23
+
+
+Cell Division:
+
+-Multicell organisms use cell division for growth and maintenence. Single cell organisms use it for reproduction.
+-Cell Cycle: cycle from division of a parent cell through to the production of two daughter cells. Highly regulated.
+
+-Genome: A cell's DNA, packaged a double-stranded DNA molecule
+-Prokaryotes' genomes are a single, double-stranded DNA molecule in a loop or circle.
+	-Contained in the nucleoid	-Some have smaller loops of DNA called plasmids that may be exchanged with other bacteria to give the bacteria new traits. ie antibiotic resistance
+-Eukaryotes' genomes consist of several double-stranded DNA molecules.
+	-Each species of eukaryotes has a characteristic number of chromosomes in the nuclei of its cells.
+	-Humans have 46 Chromosomes, human gamets(sperm and eggs) have 23
+	-diploid cells: 2n, 46 chromosomes in humans
+	-haploid cells: 1n, 23 chromosomes in human gamets
+
+-homologous chromosomes have same length and matching nucleotide segments called genes in the same location, or locus.
+-Genes determine characteristics by coding for specific proteins.
+-Traits are variations of those characteristics, ie bown, black, blonde are traits or the characteristic hair color.
+-Each copy of a homologous pair of chromosomes originates from a different parent, therefore the genes themselves are not identical.
+
+-Sex homologous pairs are the exception to the uniformity of homologous chromosomes. Genese found on x and y chromosomes are almost entirely different
+
+-Chromosomes extremely tightly packed to fit into nucleus.
+	-DNA wrapped around histone proteins to form nucleosome.
+	-Then chromatin between nucleosomes coiled tightly
+	-Then packed and organized by other proteins

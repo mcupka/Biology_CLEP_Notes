@@ -1,0 +1,47 @@
+1.4.2 Photosynthesis
+
+-Only biological process that can capture energy from space and convert it into chemical compounds
+
+-Plants, algae, and cyanobacteria can do photosynthesis (Photautotrophs)
+
+-Other organisms such as animals, fungi, and most other bacteria, are called heterotrophs
+
+-Another group of bacteria are called chemautotrophs, use inorganic chemical compounds to synthesize sugars
+
+6CO2 + 6H20 -> C6H12O6 + O2 (Carbon dioxide + water = sugar + oxygen)
+
+Structes Involved in Photosynthesis:
+-Photosynthesis in plants takes place in leaves, which are made up of several layers of cells.
+-in middle layer called the mesophyll
+-Gas exchange occurs through stomata, small regulated openings
+-In all eukaryotes, takes place in the chloroplast.
+-Chloroplasts have a double membrane envelope, stacks of thylakoids (Granums), and stroma (Aqueous fluid)
+-Thylakoids contain chlorophyll, a pigment (responsible for light reaction), and proteins that make up the ETC.
+
+-Light dependent reactions convert energy from sunlight into stored chemical energy
+-Light independent reactions use the stored chemical energy from the previous part to drive the assembly of sugar molecules from CO2.
+
+Light Dependent Reactions:
+-The sun emits energy in the form of electromgnetic radiation of different wavelengths.
+-The longer the wavelength, the less energy is carried by that radiation.
+-Wavelengths between 700nm and 400nm are visible by humans as well as absorbable by plant pigments.
+-Carotenoids are pigments used to convert excess light energy into heat
+-Chlorophyll does not absorb green light, so it appears green.
+-Can identify pigments based on their specific absorption spectra, using a spectrometer
+
+-Reactions take place in thylakoid membrane.
+-Light energy absorbed by chlorophyll excites electron which passes to the primary electron acceptor
+-The electron must be replaced using either H2O splitting or the chloroplast ETC.
+
+-PSII uses light energy to excite electron in special chlorophyll in reaction site. Then, it passes this electron to the acceptor, and then across the ETC to PSI. This process creates the gradient that facilitates the production of ATP outside of the thylakoid membrane.
+-PSI uses the electron from PSII to convert NADP+ into NADPH outside of the thylakoid membrane.
+
+Using Light Energy to Make Organic Molecules:
+-Uses carbon from CO2 to create create carbon-based molecules (carbohydrates) that can store energy for long periods of time.
+-The Calvin Cycle: fixation, reduction, regeneration
+	-fixation: Enzyme RuBisCo incorporates carbon into an organic molecule, 3-PGA
+	-reduction: The molecule is reduced using electrons supplied by NADPH
+	-regeneration: RuBP is regenerated so that the cycle can continue.
+-Cycle must be completed 3 times to form 1 GA3P, or 6 times to form 1 molecule of glucose
+
+

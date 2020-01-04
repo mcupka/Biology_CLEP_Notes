@@ -1,0 +1,43 @@
+1.6.2 DNA Replication
+
+When DNA replicates, double-helix splits and each of the two strands of serves as a template for the new daughter strands.
+
+Replication in Prokaryotes:
+
+Many proteins and enzymes used in DNA replication.
+-DNA Polymerase, enzyme that adds nucleotides to the growing strand of DNA. III used for DNA synthesis, I and II used for repair
+-Helicase, enzyme that unwinds the DNA by breaking the hydrogen bonds that hold the base pairs together.
+-RNA Primase, enzyme that synthesizes a short primer to get the DNA replication started, from there DNA Pol III can extend the strand
+
+DNA polymerase can only add nucleotides in the 5' to 3' direction.
+-The leading strand is continuously synthesized after the primer is made.
+-The lagging strand needs multiple primers for each of the short Okazaki fragments.
+-DNA ligase seals gaps between fragments to create one continuous DNA strand 
+
+Replication in Eukaryotes:
+
+-Many more DNA Polymerases in Eurkaryotes than in Prokaryotes.
+-Many more origins of replication in Eukaryotes than in Pro
+-Replication much slower in Eukaryotes than in Pro
+
+Telomeres, sections at the end of eukaryotic chromosomes that remain unpaird, may get shorter as the DNA is further replicated
+-short sequence repeated many times at the end of the chromosones
+-synthesis facilitated by DNA telomerase
+-telomerase has a built-in RNA template that complements the last few nucleotides on the 3' end.
+-telomeres on DNA shorten with age.
+
+DNA Repair
+
+-Errors in DNA synthesis are checked for by DNA Polymerase after adding each base
+-If they aren't corrected then, they may be corrected afterward by a process called mismatch repair
+-If they are never corrected, can lead to mutations or complications such as cancer.
+-Also can be correctly by nucleotide excision repair, where the whole wrong segment is cut out and replaced
+
+
+Mutations, variations of the nucleotide sequence of a genome
+-Induced Mutations: caused by exposure to chemicals / UV rays / x-rays etc
+-Spontaneous Mutations: caused by natural body reactions
+-Silent Mutations: not expressed
+-Point Mtations: affect a single base pair
+	-Transition: purine or pyrimidine replaced with wrong purine or wrong pyrimidine
+	-Transversion: purine replaced with pyrimide or vice versa

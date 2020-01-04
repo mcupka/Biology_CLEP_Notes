@@ -1,0 +1,37 @@
+1.6.5 Structural and Regulatory Genes
+
+Two types of proteins: Structural and Regulatory
+-Structural: make up organs, cell walls, cytoskeletons, etc
+-Regulatory: regulate growth, control development, start / stop transcription of certain genes, etc
+
+
+Regulation of Gene Expression
+
+-gene expression: turning on a gene to produce RNA and protein
+-reduces energy needed to replicate DNA and space to unwind DNA since not all genes in the strand need unwound / transcribed
+-in prokaryotes: control of gene expression mostly involves just regulating the transcription of a gene since transcription and protein formation occur simultaneously.
+-in eukarytoes: expression may be regulated by regulating one or more of any of the steps in DNA replication
+
+Prokaryotic Gene Regulation
+-Genes needed for similar purposes are encoded near each other in blocks called operons.
+-Operon expression is suppressed, activated, or induced.
+-Repressors decrease expression, acrivators increase, inducers either increase of decrease depending on the needs of the cell
+-Regulators bind near promoters of operons to regulate the expression. Upstream from the coding sequence.
+
+Eukaryotic Gene Regulation
+-Epigenetic gene regulation, regulating access to genes within the chromosome
+	-Changes to histone proteins and DNA that temporarilty affect gene expression
+
+-Transcription gene regulation since transcription and protein formation occur simultaneously.
+	-Enhancers are reguions that increase or enhance transcription of a gene. binding sequences for transcription factors.
+-Transcriptional repressors, can bind to promoter or enhancer regions and block transcription
+
+-Posttranscriptional Gene Regulation, affect if an RNA molecule for a gene is processed, shuttled, or translated
+	-RNA Binding Proteins can bind to regions of RNA to increase or decrease the stability of the mRNA
+	-micoRNAs + RISC can rapidly destroy an RNA molecule  
+
+-Translational and Post-Translational Gene Regulation, during or after translation
+	-if eif2 if phosphorylated, no transcription can take place
+
+-Proteins can be altered due to outside factors, resulting in parts of the DNA replication process being inhibited
+	-Proteins also have a set lifecycle, after which they are moved to the proteasome for disposal. Changning this life cycle can regulate genes as well

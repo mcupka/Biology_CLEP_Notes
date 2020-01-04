@@ -1,0 +1,25 @@
+1.6.6 Transformation
+
+DNA can be changed more easily in prokaryotes than in eukaryotes becuase they don't have a nucleus.
+-Transduction: a virus puts genes from one bacterium into another
+-Transformation: bacteria can incorporate bits of DNA from environment into their own genes
+
+Manipulating Genetic Material
+-nucleic acids are made of nucleotides, linked by phosphodiester bonds.
+-DNA / RNA must be extracted before they can be studied / manipulated
+	-Cells broken up and unwanted macromolecules destroyed, DNA then precipitated using alcohol. Similar process for RNA extraction.
+-Gel Electrophoresis, used to separate molecules by size.
+	-Since nucleic acids are negatively charged ions, they can be mobilized by an electric field.
+	-Smaller molecules move further from the well (the place where the molecules are inserted)
+-Polymerase Chain Reaction, used to amplify specific regions of DNA for further analysis.
+-Blotting, transfer separated DNA fragments onto a nylon membrane
+-Probe, short pieces of DNA complementary to the sequence you want to find. Dyed for visibility, added after blotting to detect presence of sequence.
+-Southern blotting, DNA, used to detect presence of gene. Northern blotting, RNA, used to detect the expression of a gene.
+
+Plasmids used for DNA cloning
+-recombinant DNA, plasmids with foreign DNA inserted, doesn't occur in nature
+-recombinant proteins, proteins expressed from recombinant DNA
+
+Genetic Engineering, using recombinant DNA technology to modify an organism's DNA to achieve desirable traits
+-If the foreign DNA is from a different species, the host is called trasngenic
+-Gene therapy, used to cure disease

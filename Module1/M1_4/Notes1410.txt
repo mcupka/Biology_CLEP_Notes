@@ -1,0 +1,33 @@
+Glycolysis: 1st step in breakdown of glucose to extract energy for cellular metabolism
+-Does not use oxygen
+-Takes place in cytoplasm of both pro and eukaryotes
+-1 glucose molecule -> 2 pyruvate molecules, 2 ATP, and 2 NADH
+-1st half of glycolysis splits glucose in two, uses 2 ATP.
+-2nd half of glycolysis converts each half of glucose into pyruvate, creating 4 ATP and 2 NADH
+-2nd half of glycolysis needs pyruvate kinase in order to form the pyruvate. Otherwise, only two ATP will be produced. pyruvate kinase is therefor a rate-limiting factor of glycolysis
+
+-Glucose (sugar) -> 2 pyruvate molecules, 2 ATP, and 2 NADH molecules.
+	-if the cell can't catabolize the pyruvate further, it will only harvest the 2 ATP from glycolysis.
+
+Oxidation of Pyruvate:
+
+-pyruvate goes into the mitochondria of the cell (in eurkaryotes), where it is transformed into an acetyl group and picked up by a carrier compound called coenzyme A (CoA). Forms Acetyl CoA. Acetyl CoA's main funciton is to transport this acetyl group to the next stage of the pathway in glucose catabolism.
+
+-Movement of electrons through the electron transport chain creates a pH gradient that allows ATP synthase to pull in H+ ions into the mitochondria, using them to convert ADP to ATP.
+
+Citric Acid Cycle:
+-Acetyl CoA converted into other molecules
+-A little ATP and other molecules that are used in the ETC are produced
+
+Anaerobic Pathway:
+
+-if there is O2, then the NADH / FADH2 high-energy electrons will be used to form ATP
+-if no 02, NADH must be converted back into NAD+ for the glyolytic pathway to continue
+-Fermentation: uses organic molecule to regenerate the NAD+ from the NADH
+-Some use inorganic molecules instead.
+
+Lactic Acid Fermentation:
+
+-Pyruvic acid + NADH <-> lactic adic + NAD+ (via enzyme Lactase Dehydrogenase, LDH)
+
+All catabolic pathways that break down things like proteins, carbs, and lipids, eventually connect to the glycolytic pathway and/or the citric acid cycle. These pathways are all very interconnected.

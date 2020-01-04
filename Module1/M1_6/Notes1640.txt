@@ -1,0 +1,58 @@
+1.6.4 Control of Protein Synthesis: Transcription, Translation, Posttranscriptional Processing
+
+Gene: segment of DNA that is a blueprint for a specific protein
+
+Genes control the synthesis of the proteins
+-2 parts: transcription and translation
+
+Transcription: Gene copied from DNA to RNA (U instead of T)
+-mRNA takes message to cytoplasm for translation
+
+Translation:
+-sets of 3 nucleotides form codons which are complimentary to sets of anticodons on tRNA
+-tRNA carries amino acids from cytoplasm to ribosomes
+-ribosomes match codons to anticodons
+-attached amino acids are joined to form proteins
+
+
+Eukaryotic Transcription:
+
+-Eukaryotic mRNA usually monogenic, aka specify a single protein.
+-Eukaryotes have 3 different types of RNA polymerase used for transcription
+
+-RNA Polymerase I, located in nucleolus: used to make rRNAs, which are assebled into ribosomes
+-RNA Polymerase II, located in nucleus: transcribes the coding from the DNA into pre-mRNAs, which need to be processed before translation.
+-RNA Polymerase III, located in nucleus: used to make some rRNAs, tRNAs, and other small nuclear RNAs
+
+Promoters: sections of DNA that initiatie the transcription process. Located near the 5' end of the DNA strand
+-have TATA box which helps the DNA template to locally unwind in preparation for transcription.
+-Also GGCG boxes or ATTAGCAT (octamer) boxes that increase transcription efficiency
+
+Eukaryotic mRNA contains introns that must be spliced out
+
+During transcription, a complex called FACT pulls histones away from the DNA template as the polymerase moves along it. It then replaces the histones to recreate the nucleosomes.
+
+
+RNA Processing in Eukaryotes:
+
+mRNA Processing, needed before translation
+-add stabilizing proteins to increase its half-life to several hours from mere seconds
+-during transcription, 7-methlyguanosine cap added to 5' end of the growing transcript to protect from degredation and allow for translation factors in the ribosomes to recognize / initiate translation.
+-poly-a tail added to end of strand, at 3' end. ~200 As, to protect further
+-introns, non-expressed codons, must be spliced out from mRNA before transcription, done by splicosomes
+
+Processing of tRNAs and rRNAs
+-rRNAs are assembled into ribosomes in the nucleolus
+-tRNAs are transcribed and processed in the nucleus and then sent to the cytoplasm to be linked to free amino acids for protein synthesis
+-tRNAs use intramolecular hydrogen bonds, positioning the amino acid binding site at one end and the anicodon at the other end.
+
+Ribosomes
+-exist in cytoplasm in prokaryotes and the cytoplasm and rough ER in eukaryotes.
+-mitochondria and chloroplasts also have their own ribosomes in the matrix and stroma.
+
+tRNAs
+-transcribed by DNA Pol III
+-tRNA "Charging", each tRNA is linked to its correct amino acid by enzymes called aminoacyl tRNA synthetases
+
+-A, P, and E sites during translation
+

@@ -1,0 +1,19 @@
+1.6.1 The Watson-Crick Model of Nucleic Acids
+
+Nucleotides, building blocks of DNA
+-Nitrogenous base, deoxyribose (5-carbon sugar), and a phosphate group
+-Named depending on the nitrogenous base
+-Nitrogenous base can be a purine or a pyrimidine.
+-Purines: Adenine, Guanine
+-Pyridamines: Cytosine, Thymine
+-Nucleotides combined by covalent bonds called phosphodiester bonds. 5'-3' phosphodiester bond
+-Sugar is deoxyribose in DNA and ribose in RNA
+-A <-> T and G <-> C
+-3' of one strand faces the 5' of the other strand
+
+3'  A G A C T  5'
+5'  T C T G A  3'
+
+-Sugar and phosphate group form backbone of the structure. Nitrogenous bases stacked inside
+
+-Uracil (U) base found in RNA. A <-> U.

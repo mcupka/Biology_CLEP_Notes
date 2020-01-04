@@ -1,0 +1,12 @@
+1.6.3 Mutations
+
+DNA Copied to mRNA, which is then used to synthesize amino acids, making proteins that control all of the major processes of the cell.
+
+DNA directly copied to mRNA, 3 nucleotides correspond to 1 amino acid.
+-two different nucleotide triplets can translate into the same amino acid. ie degenerative
+
+Codon: a nucleotide triplet
+-stop/nonsense codon: releases the polypeptide chain from the translation machinery
+-start codon: AUG, sets the reading frame near the 5' end of mRNA
+
+Mutations that only change one nucleotide can still synthesize the correct protein becuase of the degenerative nature of genetic code

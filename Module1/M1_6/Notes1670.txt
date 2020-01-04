@@ -1,0 +1,58 @@
+1.6.7 Viruses
+
+Are they alive?
+-They have their own DNA or RNA (Some have one, some have the other)
+-Can only reproduce in host cells
+-no metabolism
+
+Single virus = particle or virion (Not a cell)
+
+Viruses are much smaller than the smallest bacteria
+
+Viruses composed of Capsule and DNA or RNA. Some have enzymes, attachment structures, etc.
+
+Virus
+1. Invades living host cell
+2. Take conrol of DNA replication, sometimes transcription and translation
+3. Gets host cell to make more of itself
+
+Some viruses program the host's immune system to stop working or attack itself (AIDS)
+
+Virus origins pretty much a mystery, since they do not leave fossils.
+
+Virus complexity does not correlate to the complexity of the hosts they infect. ie some more complex viruses infect very simple organisms.
+
+All viruses have nucleic acid genome covered by a protective layer of proteins, called a capsid, made up of subunits called capsomeres.
+
+Shapes
+-Filamentous: Long, cylindrical
+-Isometric: Mostly spherical
+-Enveloped: Membranes surrounding the capsoids
+-Head and Tail: Head shaped like isometric and tail shaped like filamentous
+
+Many use receptor to bind to the host cell for penetration of the membrane.
+
+Viruses contain either DNA or RNA, located in the viral core.
+-DNA viruses direct host replication proteins to synthesize new copies of the viral genome and to transcribe / translate it into viral proteins
+-RNA viruses contain RNA that codes for enzymes that replicate RNA into DNA, which cannot be done by the host cell
+
+Baltimore Classification, most common classification system for viruses
+-Classifies viruses based on how mRNA is synthesized during replication
+
+Steps of Virus Infections:
+1. Attachment: virus attaches to receptor site through attachment proteins in the capsid or via glycoproteins in the viral envelope
+2. Penetration: Viral nucleic acid inserted into the cell
+3. Uncoating: viral capsid degraded, freeing viral nucleic acids
+4. Replication: Viral DNA uses host cell proteins and enzymes to make additional DNA that is transcribed and translated. RNA viruses use RNA as a tempplate for synthesis of viral genomic RNA and mRNA. viral mRNA directs the host cell to synthesize viral enzymes and capsid proteins.
+5. Assembly: The host is directed to assemble new virions from teh replicated enzymes and proteins
+6. Release: Virions released, either by host cell dying (apoptosis) or by budding through the membrane
+
+Bacteriophages: viruses that infect bacteria, penetrate cell membrane to enter
+Animal Viruses: infect animals, don't need to penetrate cell membrane to enter. May use receptors that mediate endocytosis to enter.
+Plant Viruses: Plants have cell walls to protect their cells, for most plant viruses to be transmitted, the plant cells must be damaged
+
+Prevention / Treatment:
+-vaccines may be prepared using live, dead, or parts of the virus.
+-vaccines can sometimes be used to treat active infection. They don't cure the infection but can inhibit it from spreading or being active
+
+
