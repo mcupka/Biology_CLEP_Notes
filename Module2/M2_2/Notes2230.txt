@@ -1,0 +1,37 @@
+2.2.3 Plant Growth / Development: Hormonal Control
+
+Plant Hormones
+-Function similarly to animal hormones
+-Transported in vascular system
+-Control most aspects of growth and development
+-Often several interact with each other
+
+Auxins
+-Promote shoot elongation
+-Produced mostly in shoot tips
+-Transported only from tip to base of the shoot
+
+Cytokinins
+-Stimulate cytokinesis
+-Produced in actively growing tissure: roots, embryos, fruits
+
+Gibberellins
+-Affect cell division and elongation
+-Fruit growth
+-Seed germination
+-Produced in young roots and leaves
+
+Abscisic Acid
+-Slows growth of plant tissues, antagonizing actions of growth hormones
+-Ratio of ABA to growth hormones determines whether growth occurs
+
+Ethylene
+-Produced in fruit ripening
+-Produced in response to stresses like drought, flood, etc
+-Also produced as part of normal life cycle. ie fruit ripening and programmed cell death
+----------
+
+Plants control different hormones in response to stimuli
+
+Short paragraphs in reading about each hormone
+

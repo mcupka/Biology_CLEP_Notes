@@ -1,0 +1,50 @@
+2.2.2 Gamete Formation and Fertilization
+
+Male gamete: sperm
+Female gamete: egg
+Zygote: fused sperm and egg (fertilized egg)
+Embryo: gyrowing zygote (more than a few cells)
+
+Plant sperm formed by male gametophyte
+-Formed in large numbers
+-Leave to join eggs
+-Transmitting of sperm may 'swim' between wet areas, or packaged into pollen grains that float or are carried by animals.
+
+Plant eggs formed by female gametophyte
+-Produced in small numbers
+-Larger than sperm
+-Usually stay put. Sperm will come to it.
+
+Fertilization similar to animals
+-Female and male gametes fuse to form zygote
+-In seed plants, sperm grows through plant tissue to reach the ovaries that have the eggs.
+-In seedless plants, it's simpler 
+--------
+
+Angiosperms
+
+Male gametophyte (The Pollen Grain)
+-in male reproductive organs, development of pollen takes place in the microsporangium
+-in the microsporanguim, the microspore mother cell divides by meiosis to create 4 microspores
+-Each of the 4 will form a pollen grain
+-Pollen grains have a tube cell through which the generative cell goes into the egg. While entering the egg the generative cell divides to form two sperms cells
+
+Female gametophyte (The Embryo Sac)
+-Megasporanguim, area where a single cell undergoes meiosis to produce four megaspores
+-One megaspore survives and undergoes mitosis to produce a female gametophyte, or embryo sac.
+-Female gamete, egg cell, formed once a sperm fuses to the central cell.
+-Synergids help guide the tube cell for fertilization of the egg, a zygote is formed
+-Micropyle: opening for the tube to deliver the sperm through
+
+Gymnosperms (No Flowers)
+-Cones in coniferous trees. Male cones grow on lower, female on upper
+-Takes a year for the tube to grow so that the sperm can fuse with the egg
+-Female gametophyte exposed unlike in angiosperms
+-Rely heavily on wind to pollinate
+
+Pollination: in angiosperms, placement or transfer of pollen from anther -> stigma of same flower or another flower.
+-In gynosperms, must transfer pollen from male cone to female cone.
+-Upon fertilization, pollen germinates to form the pollen tube and the sperm.
+-Self-pollination: same flower, or another flower on the same plant.
+-Cross-pollination: Anther of one flower to the stigma of another flower on a different plant of the same species.
+

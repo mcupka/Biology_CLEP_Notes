@@ -8,6 +8,8 @@ Major Plant Organs: Shoots, Leaves, Flowers, Fruits, Roots
 -Fruits: Mature reproductive organs. Contain seeds, sometimes tasty flesh.
 -Roots: Absorb water and nutrients from the soil. Below-ground. Sometimes store energy/water.
 
+Auxin: hormone involved in regulating plant growth
+
 ----
 
 The shoot system consists of two parts: the vegetative parts such as leaves and stems, and teh reproductive parts, such as flowers and fruits.

@@ -1,0 +1,23 @@
+2.2.1 Alternation of generations in ferns, conifers, and flowering plants
+
+The plant's lifecycle is an alternation of haploid and diploid phases.
+-Both phases can undergo mitosis, usually only one goes through meiosis
+-Sporophyte dominant in most plants, but depends on species
+
+Sporophyte: diploid phase, produces spores through meiosis. Spores grow into gametophytes via mitosis
+Gametophyte: haploid phase, produces gametes via mitosis, which fuse to form a new sporophyte which grows via mitosis. The cycle then begins again
+--------
+
+Gametophyte Stage
+-prodece male and female gametes by mitosis.
+-fusion of the male and female gametes form the diploid zygote, which develops into a sporophyte
+
+Sporophyte Stage
+-Once mature, produces spores via meiosis, which divide by mitosis to produce haploid gametophytes
+
+Flowers contain plant reproductive structures, 4 main parts aka whorls
+-Calyx: contains sepals, green, leafy structures that help protect the bud.
+-Corolla: contains petals. together with the calyx is called the perianth
+-Androecium: male sex structures
+-Gynoecium: female sex structures
+-Complete flowers contain all whorls, incomplete may not contain one of the androecium or gynoecium

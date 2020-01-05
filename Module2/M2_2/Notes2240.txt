@@ -1,0 +1,29 @@
+2.2.4 Tropisms and Photoperiodicity
+
+Tropism: any growth response that results in a plant growing toward or away from a particular stimulus
+
+Phototropism, tropism response to light
+-Some parts of the plant grow toward light (positive), some grow away from it (negative)
+-Shoots grow toward, roots grow away
+
+Gravitropism, response to gravity
+-Roots display positive gravitropism
+-Shoots display negative gravitropism
+-Occurs as soon as seed germinates, organs begin to grow in appropriate direction no matter how the seed is oriented
+
+Thigmotropism, response to touch
+-Trees in windy habitats grow short and thick compared to same species elsewhere
+-Plants that use objects for climbing (vines)
+-Plants that close when touched
+-Thigmonastic response = independent of direction of the touch ie venus fly trap.
+
+Photoperiodicity: phsyiological response to relative lengths of night and day
+-Some plants will only grow in a certain time of year; Some will only flower in certain times of year.
+-----------
+
+Phosphoperiodism: Use light to track time; Red light response
+Phosphotropism: growing toward or away from light; Blue light response
+
+Light reactions mediated by phtoreceptors which = a protein + a pigment called a chromophore
+
+Amyoplasts, plastids involved in gravity response
