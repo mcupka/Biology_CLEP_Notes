@@ -9,5 +9,20 @@ Vascular Tissures: for transporting things, such as water and sugars
 Water and minerals diffuse into root cells
 -Cohesion-tension pulls water and minerals up through plant as water vapor is lost out of the top of the plant.
 -This works becuase of cohesive and adhesive properties of water.
+----
+
+Phloem and Xylem are the main tissues responisble for transport of water, nutrients, and photosynthates.
+
+Water Potential (Ψ): measure of potential energy in water
+-It is the difference in potential energy between the given sample and pure water
+-water moves from system with higher potential to the system of lower potential
+-Plants can metabolically manipulate their water potential
+
+Gibbs Free Energy: energy associated with a chemical reaction that can be used to do work (ΔΨ)
+
+Transpiration: loss of water by evaportaion
+-creates pressure deficit at the leaf surface, pulling water from the roots
+-water held at night when transpiration stops
+-transpiration regulated becuase it causes much water loss, plants choose between efficient photosynthesis and reduced water loss.
 
 
