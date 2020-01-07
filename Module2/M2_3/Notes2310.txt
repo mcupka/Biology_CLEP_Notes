@@ -1,0 +1,126 @@
+2.3.1 Major Animal Systems
+
+*Apparently there are entire chapters in the book over these systems. The supplemental reading doesn't really cover them*
+
+Body systems mostly controlled by hormones, but also affected by environment
+
+Digestive system: processes ingested food and drink
+Respiratory System: intake of essential gasses, and release of waste gasses
+Circulatory System: Moves gasses, nutrients, hormones throughout the body
+Musculoskeletal System: Provide suppport, stability, movement
+Nervous System: passes messages from the brain to the rest of the body
+Excretory System: Filters wastes and excess water from blood, releases outside body
+Immune / Lymphatic System: Defense against invaders
+-------------
+
+Endothermic animals: fur, fat, feathers
+Ectothermic animals: no insulation. dependent on environment
+
+3 types of muscle tissue: smooth (or visceral), skeletal, and cardiac
+-Skeletal muscle is the muscle that we voluntarily move
+-Smooth / Visceral muscle is muscle of internal organs, lines trancts like digestive tract and blood vessels.
+-Cardiac muscle is heart muscle and it very strong and mitochondia-dense so that it can be resistant to fatigue.
+
+Autonomic Nervous System: part of nervous system that controls / regulates internal organs without conscious recognition or effort by the organism
+-Sympathetic nervous system: Prepare organism for stress by increasing heart rate, blood flow to muscles, and decreasing blood flow to skin. Fight or flight response
+-Parasympathetic nervous system: rest and digest. Conserves energy, slows heart, increases intestinal and gland activity, relaxes sphincter muscles in gastrointenstinal tract.
+Sy
+
+
+Urea produced when liver (or sometimes kidneys, or anywhere in body, but mostly in liver during digestion) breaks down amino acids (protein metabolism) and ammmonia through deamination
+-Question at end of section: since the patient was not fed and proteins, only carbs and lipids, the urea must have come from breaking down of cellular proteins inside the patients body
+
+
+Blood clotting: activation, adhesion, and aggregation of platelets to convert blood from liquid to gel form.
+
+Some structures and functions:
+-Alveolus: air sacs in lungs, allow for gas exchange
+-Cilium: propelling cells, keeping airways clean, propeling sperm
+-Sarcomere: in muscles, allow for contraction
+-Neuron: electrically excitable cells, process and transmit information
+-Nephron: in kidneys, separates water, ions, and small molecules from the blood. Filters blood of waster and toxins. Returns needed molecules to blood.
+
+-----------------
+Digestive System
+-----------------
+
+Oral cavity (mouth): entry point for food to the digestive system.
+-Salivary amilase, enzyme that begins converting starches into a disaccharide called maltose
+-Lipase, another enzyme that helps break down fats
+
+Esophagus: connects mouth to stomach
+Stomach: secretes gastric digestive juices
+-pH in stomach between 1.5 and 2.5
+Small intestine: completes digestion of proteins, fats, and carbohydrates
+Large intestine: reabsorbes water from undigested food and processes the waste
+Rectum and Anus
+Accessory organs: secrte enzymes that aid in digestion
+-Liver, Pancreas, Gallbladder
+
+-----------------
+Nervous System
+-----------------
+
+Made of neurons and glia.
+-Neurons: send electrical and chemical signals
+-Glia: non-neuronal cells in the nervous system that support neuronal development and signaling.
+
+Neurons have charged membranes because there are different concentrations of ions inside and outside of the cell
+Action potential: self-propagating mementary change in the electrical potential of a neuron (or muscle) membrane
+Axon: tube-like structure that propagates a signla from a neuron's cell body to axon terminals
+Synapse: junction between two neurons where neuronal signals are communicated
+
+Cerebral Cortex: outermost sheet of brain tissue, involved in many higher order thinking functions
+Amygdala: structure within the limbic system that processes fear
+Temporal lobe: processes auditory input; also involved in speech, memory, and emotion processing
+
+-----------------
+Endorine System
+-----------------
+
+Controls body processes through production, secretion, and regulation of hormones. Ultimately working to maintain the body's homeostasis.
+
+Lipid-derived hormones
+-steroid hormones, ie estrogen and testosterone
+-amino acid-derived hormones, epinepherine and norepinepherine. Thyroxide
+-peptide hormones, polypeptide chain structure, oxytocin, growth hormone
+
+Hormones bind to specific hormone receptors, only affecting the cells that posess the correct receptors
+
+Pituitary: base of brain, growth, thyroid-stimulating hormones
+Adrenal gland: at kidneys, osmoregulation
+Thyroid: in the neck, metabolic rate. Need iodine
+Pancreas: between stomach and small intestine, insulin for blood-sugar regulation, enzymes for digestion
+
+
+-----------------------
+Musculoskeletal System
+-----------------------
+...
+
+-----------------------
+Respiratory System
+-----------------------
+...
+
+
+-----------------------
+Circulatory System
+-----------------------
+
+Red blood cells: deliver oxygen to cells
+-Hemoglobin, protein that carries oxygen (and CO2)
+Plasma: liquid portion of blood
+
+Heart muscle pumps blood through the circulatory system
+
+---------------
+Immune System
+---------------
+Pathogen: agents that cause disease
+Macrophages recognize pathogens
+
+Cell-mediated immune response: T-cells
+Humoral immune response: controlled by B cells and antibodies.
+
+Using plasma membrane to engulf another cell

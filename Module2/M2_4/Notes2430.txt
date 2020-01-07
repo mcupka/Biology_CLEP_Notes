@@ -1,0 +1,23 @@
+2.4.3 Experimental Analysis of Vertebrate Development
+
+Model Organisms: used by scientists to learn about generalities in vertebrate development
+-easy to maintain in lab setting
+-The majority of what we know about development has come from these models
+
+Zebrafish is a model organism used to explore:
+-effects of inhibitors on development
+-effects of alcohol on development
+-stages of development
+
+Frog embryos another model organism used to investigate:
+-Blastula formation
+-Causes of Two-Headedness
+-Control of Spinal Formation
+
+Chicken embryos used to learn about:
+-Formation of limbs
+-Signaling molecules
+
+Mouse embryos have helped us understand:
+-Toe formation and separation
+-cell fate determinants

@@ -1,0 +1,24 @@
+2.5.1 Mendelian Inheritance
+
+Inheritance: characteristics passed from one generation to another, in forms of genes
+
+Gregor Mendel: Austrian monk who studied pea plant inheritance ~ 1865
+-First to quantify genetic tests
+-His ideas still accurate for simple systems
+
+Allele: alternate form of a gene. Everyone has 2 alleles for each gene, represented by a letter (R, r)
+
+Homozygous: two copies of the same allele (RR or rr)
+
+Heterozygous: one copy of each allele (Rr)
+
+Dominant allele: always expressed when it's present. Shown by a capital letter (R, G, N)
+Recessive allele: masked when dominant allele is present. Shown by lowercase letter (r, g, n)
+
+Genotype: alleles carried by an individual
+Phenotype: observable characteristics of an individual
+
+Cross: sexual reproduction between different individuals
+
+Character: a feature. ex hair color, plant height
+Trait: the genotype or phenotype of an individual for a given character

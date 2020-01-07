@@ -32,6 +32,6 @@ Ethylene
 ----------
 
 Plants control different hormones in response to stimuli
-
 Short paragraphs in reading about each hormone
+Flowering plants produce CO2. Most CO2 comes from environment but CO2 is also generated during cellular respiration of plants.
 
