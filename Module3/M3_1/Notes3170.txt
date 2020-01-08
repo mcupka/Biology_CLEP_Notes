@@ -1,0 +1,35 @@
+3.1.7 Island Biogeography
+
+Biogeography: Study of distribution of organisms in space, historically & currently
+
+Island Biogeography: Biogeography specific to islands and their species
+-dispersal
+-species diversity
+	-area effects
+	-distance effects
+	-age effects
+
+Dispersal: Species reach islands by dispersal methods
+-flying
+-blown by wind
+-floating in water
+
+Species Diversity = # of species on the island
+-determined by:
+	-immigration and extinction rates
+	-size
+	-distance to the mainland
+	-age
+
+Immigration: when a species arrives on an island
+Extinction: whan a species disappears permanently from an island
+
+As diversity increases, immigration rate decreases, and extinction rate increases
+-Immigration rate decreases because the more species are present on an island, the less likely it is that a new individual coming to the island represents a new species
+-Extinction rate increases because the more species are present on the island, the more competition there will be
+
+
+Area Effects: larger islands have higher diversity than smaller islands
+Distance Effects: diversity highest on islands nearest to the mainland
+Age Effects: diversity highest on islands that are older
+------------------------------------

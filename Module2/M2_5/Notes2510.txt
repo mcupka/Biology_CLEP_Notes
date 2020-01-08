@@ -21,4 +21,55 @@ Phenotype: observable characteristics of an individual
 Cross: sexual reproduction between different individuals
 
 Character: a feature. ex hair color, plant height
-Trait: the genotype or phenotype of an individual for a given character
+Trait: Variation in physical appearance of a heritable characteristic
+--------------------------------
+
+Aa x Aa = 3:1 dominant phenotype (1 AA, 2 Aa, 1 aa)
+AA x Aa = 4:0 dominant phonotype (2 AA, 2 Aa)
+Aa x aa = 2:2 split in phenotype(2Aa, 2aa) 
+AA x aa = 4:0 dominant (4 Aa)
+aa x aa = 4:0 recessive (4 aa)
+AA x AA = 4:0 dominant (4 AA)
+
+Test Cross: Crossing a dominant phenotype with a homozygous recessive one to determine if the dominant is homozygous or heterozygous
+-A? X aa to determine what ? is
+-If any children express recessive, then it is heterozygous
+
+Incomplete Dominance: When Aa expresses a blend of both A and a traits. (Red(AA) + White(aa) = Prink(Aa))
+Codominance: Both traits expressed in Aa
+
+
+X-Linked Traits: Men only have one x chromosome, so they will either be A, or a. Females have two, so they will be AA, aa, or Aa
+-Male allele for x-linked comes only from the mother
+-Female alleles for x-linked come 1 from mother and 1 from father
+
+-If mother expresses the gene (aa) and father doesn't (A)
+	-Male children will be (a) and express it
+	-Female will be (Aa) and not express it
+
+-If mother expresses the gene (aa) and father also does (a)
+	-Male children will be (a) and express it
+	-Female will be (aa) and also express it
+
+-If mother doesn't express the gene but carries it (Aa) and father expresses it (a)
+	-Male children will be (a) or (A) 50% chance to express or not
+	-Female will be (Aa) or (aa) 50% change to express or not
+
+-If mother doesn't express the gene but carries it (Aa) and father doesn't express it (A)
+	-Male children will be (a) or (A) 50% chance to express or not
+	-Female will be (AA) or (Aa) and not express it
+
+-If mother doesn't express the gene and doesn't carry it (AA) and father doesn't express it (A)
+	-Male children will be (A) not express it 
+	-Female will be (AA) not express it
+
+-If mother doesn't express the gene and doesn't carry it (AA) and father expresses it (a)
+	-Male children will be (A) not express it 
+	-Female will be (Aa) not express it
+
+
+
+
+
+
+

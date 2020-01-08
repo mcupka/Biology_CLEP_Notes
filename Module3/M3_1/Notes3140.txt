@@ -1,0 +1,31 @@
+3.1.4 Community Structure, Growth, Regulation
+
+Community Ecology: Interactions among different species in the same area
+-Competition
+-Predation
+-Symbiosis
+-Succession
+
+
+Competition: More than one species attempt to use the same limited resource
+-Competative Exclusion Principle: no two species can occupy the same niche indefinitely; one will be the better competitor, the other go locally extinct
+-Niche partitioning allows coexistence; ie a cactus uses surface water while a larger tree uses deeper water.
+
+R-Selected Species: growth pattern = start very small and grow extremely rapidly, but die very quickly. Thrive in habitats that have frequent disturbances. They are the first ones to 'strike' reproducing very quickly after a disturbance
+
+Keystone species: species upon which many other species in an ecosystem rely for survival, such that if removed the ecosystem would change drastically.
+-disproportionate amount of influence for its size in an ecosystem
+
+Foundation Species: species that dominates the ecosystem in both influence and abundance
+
+Symbiosis: close interaction between two species
+-Mutualism: both benefit
+-Commensalism: one benefits, other neutral
+-Parasitism: one benefits, other harmed
+
+Succession: process through which community recovers from disturbance
+-Primary: no soil (ex. lava flows, glacial moraine)
+-Secondary: soil present (ex. abandoned fields)
+
+Batesian Mimicry: harmless species mimics the look of a harmful one
+Mullerian Mimicry: multiple species share same warning coloration, but they all actually have defenses 

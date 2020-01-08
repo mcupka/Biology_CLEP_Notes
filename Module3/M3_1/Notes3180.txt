@@ -1,0 +1,22 @@
+3.1.8 Evolutionary Ecology
+
+Study of evolution of interactions between and among species and with their environment. How the interactions formed between species.
+-competators
+-mutualists
+-predators
+-prey
+-pathogens
+
+Two types studied:
+1. Interactions with the physical environment
+2. Interactions with other species
+	-one-way
+	-reciprocal
+
+One-way interactions: one species affects another, but not vice versa
+-Commensalism
+
+Reciprocal interactions: both species are affected by the interaction
+-predator-prey
+-parasite-host
+-competitors

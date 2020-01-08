@@ -1,0 +1,11 @@
+2.5.2 Chormosomal Basis of Inheritance
+
+Law of Independent Assortment: Every possible combination of alleles is equally likely for each gamete
+
+Law of Segregation: paired genes separate and randomly recombine into gametes, so offspring have an equal likelyhood of inheriting either
+
+P: parent generation
+F1: Offspring of P
+F2: Offspring from cross between two F1 individual
+----------------------------------------------------
+

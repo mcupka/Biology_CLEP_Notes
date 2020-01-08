@@ -1,0 +1,10 @@
+3.1.6 Concept of a Niche
+
+Ecological Niche: Species' role in the community
+-time of day / year
+-parts of habitat
+-prey size
+-temperature
+-trophic level
+
+

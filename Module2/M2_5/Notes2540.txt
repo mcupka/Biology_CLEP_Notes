@@ -1,0 +1,9 @@
+2.5.4 Polygenic Inheritance
+
+Polygenic Inheritance: two or more genes affect the same phenotypic character
+-ex Human height, human eye and skin color
+
+Polygenic traits hard to predict, but can contribute to many illnesses
+-Diabetes
+-Heart Disease
+-Hypertension

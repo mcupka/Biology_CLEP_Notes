@@ -1,0 +1,40 @@
+3.1.1 Energy Flow and Productivity in Ecosytems
+
+Energy Flow / Food Cycle / Food Web
+-Represents flow of energy (matter)
+-Shows how energy enters and leaves
+
+Trophic Levels
+-Producers: make energy available to ecosystems via photosynthesis
+-Consumers: Eat producers or other consumers
+
+Primary Producer -> Primary Consumer -> Secondary Conumer -> Tertiary Consumer -> ... -> Apex Consumer
+
+Trophic Categories
+-Autotrophs: self-feeders, producers, make food molecules from the sun
+-Heterotrophs: other feeders, consumers, get food molecules from eating others
+
+Ecological Roles:
+-Herbivores: eat plants
+-Carnivores: eat animals
+-Omnivores: eat both plants and animals
+
+Transfer of energy from one trophic level to the next is very inefficient due to heat loss
+-Each level gets 10% of the energy from the previous level
+
+------------------------------
+
+Chemautotrophs: usually bacteria in dark places, uses energy from chemical sources, not from the sun
+Photoautotrophs: plants, algae, etc
+
+Biomass: density of mass of things in a particular trophic level in an ecosystem per area
+
+Gross primary productivity: the rate at which photosynthetic primary producers incorporate energy from the sun
+Net primary productivity: the energy that remains in the primary producers after accounting for the organism's respiration and heat loss
+
+Trophic Level Transfer Efficiency (TLTE) = (production of present trophic level) / (production of previous trophic level) * 100
+-after multiple energy transfers, there is not enough energy left to support another trophic level
+-Top trophic level = apex consumers
+
+
+Biomagnification: harmful substances propogating through trophic levels
