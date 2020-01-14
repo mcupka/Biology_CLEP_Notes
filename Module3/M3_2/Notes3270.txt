@@ -1,0 +1,50 @@
+3.2.7 Classification of Living Organisms
+
+Taxonomy: organizes living things into groups based on appearance, genetics, evolutionary history
+
+Binomial Nomenclature (Carolus Linnaeus): genus and species
+-"Scientific name"
+-ex Borrelia burgdorferi, homo sapien
+
+Taxon: level of classification of living things
+-Kingdom
+-Phylum
+-Class
+-Order
+-Family
+-Genus
+-Species
+
+Domain: new concept, higher than kingdom
+-3 domains: Archaea, Eubacteria, Eukaryota (Eukarya)
+-Eukaryota is all eukaryotes, other two are prokaryotes
+
+Eukaryote Kingdoms:
+-Animalia, animals
+-Plantae, plants
+-Monera, fungi
+-Protista, unicellular, animal-like or plant-like
+
+Animal Phyla:
+-Porifera, sponges
+-Cnidaria, jellies
+-Platyhelminthes, flatworms
+-Nematoda, roundworms
+-Mollusca, clams, snails, squid
+-Annelida, earthworms
+-Arthropoda, crabs, insects, spiders
+-Echinodermata, starfish, sea urchins
+-Chordata, fish, mammals, birds, reptiles, amphibians
+
+-------------------------------------------------------------
+
+Phylogenetic Trees: show evolutionary relationships
+
+Related species may not necessarily look similar, although this is often the case.
+
+Similary structure pointing to common ancestry = homologous
+-More complex structes being similar points to common ancestry more than simple structures being similar
+
+Molecular comparisons (DNA) also used to help determine ancestry
+
+Clades / Monophyletic Groups = groups stemming from one single point. Must include ALL members of that group

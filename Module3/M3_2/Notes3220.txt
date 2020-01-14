@@ -1,0 +1,61 @@
+3.2.2 Concepts of Natural Selection
+
+Natural selection is the driving force behind evolution
+-more offspring produced than can survive
+-variation in characteristics among individuals of population
+-some individuals better competitors
+-these have more offspring
+-frequency of characteristic increases in population
+-population smallest unit that can evolve
+
+Modern Synthesis: Darwin's theory still supported, but we know more details now
+-characteristics result from genes
+-variations in characteristics results from alleles
+-evolution can take thousands of years
+---------------------------------------------------------------
+
+Adaptation: heritable trait that helps the survival of an organism in its prenet environment
+-ex. webbed feet of platypus for water, snow leopards' thick fur for living in cold, cheetah's fast speed for catching prey, etc
+
+Divergent Evolution: when two species evolve in diverse directions from a common point
+
+Convergent Evolution: when similar traits evolve independently in species that do not share a common ancestry
+
+Evidence for Evolution
+-Fossils: show progression of evolution
+-Anatomy and Embryology: similar structures in organisms
+	-Homologous Structures: Structures in different organisms that share the same structure and therefore suggest similar ancestry. Embryology can reveal some structural similarities as well since embryos can show structures that are lost upon full development of an organism.
+	-Vestigial Structures: unused, functionless structures leftover from ancestors.
+-Biogeography: Species that evolved before the breakup of Pangea were distributed worldwide. Isolated areas (Australia) evolved into species unique to the area. However these unique species in different areas show ancestry from the common point they evolved from.
+-Mecular Biology: DNA evidence for common ancestor of all living things.
+
+Differential Reproduction: the idea that those organisms best adapted to a given environment will be most likely to survive and reproduce
+
+Gene Pool: sum of all alleles in a population
+
+Allele frequency: rate at which a specific allele appears within a population.
+
+Genetic Drift: Random change of allele frequency within a poplulation with no advantage to the poplulation over existing allele frequencies.
+	-Founder effect = event that triggers an allele frequency change
+
+Hardy-Weinberg Principle of Equilibrium: if no evolutionary forces are acting, a population's allele frequencies are stable
+-p^2 + 2pq + q^2 = 1
+-p^2 = percentage of population with AA genotype
+-2pq = percentage of population with Aa genotype
+-q^2 = percentage of population with aa genotype
+-p = frequency of A allele
+-q = frequency of a allele
+-p + q = 1
+-if a population's allele frequencies differ from those predicted by the H-W equation, inferences can be made about the evolutionary forces at work
+
+Population Variance: distribution of phenotypes among individuals
+
+
+Speciation: the formation of two species from one original species
+-two new populations must be formed and they must evolve in a way that makes it impossible for them to interbreed
+-Allopatric speciation: geography separtaion of a parent species and subsequent evolution
+-Sympatric speciation: speciation occuring within a parent species remaining in one locaition. occurs when mistakes happen during meiosis. more common in plants
+-Adaptive radiation: one founder species branches into many species each adapting to its own locaiton
+
+Graduated speciation: species diverge gradually over time in small steps
+Punctuated speciation: species undergo changes quickly from the parent species, and then remain largely unchanged for long periods of time afterwards.

@@ -1,0 +1,26 @@
+3.2.3 Adaptive Radiation
+
+Adaptation: inherited characteristic that provides a survival/reproduction advantage
+-speed, camouflage, armour, hearing
+
+Species: population of interbreeding individuals, common gene pool, viable offspring, don't breed with other populations
+-a new species forms when two popoulations no longer interbreed
+
+Resource Partitioning: decrease competition between species by utilizing more specialized niches
+-Adaptive radion occurs as a result of resource partitioning
+	-Alleles that allow individuals to use resources differently are adaptive
+	-Over time, many new species evolve as a result of benefits of using new niches
+-----------------------------------------------------------
+Hybrid = cross between two species
+-hybrid inviability: doesn't make it to full birth, dies in womb
+-hybrid sterility: once born, is sterile, can never reproduce
+
+Reconnection
+-After speciation, two species may recombine 
+-Hybrid zone:area where two closely related species continue to interact and reproduce
+-if hybrids are less fit than parents, the speciation is reinforced and the species will continue to diverge until they can no longer mate
+-if reproductive barriers weaken, the species may merge into one.
+
+Only heritable traits can evolve
+
+

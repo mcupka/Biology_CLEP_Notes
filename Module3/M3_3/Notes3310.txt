@@ -1,0 +1,22 @@
+3.3.1 Stereotyped, Learned Social Behavior
+
+Stereotyped Behavior: Instinctive, performed the same way by all individuals of a species, in response to a stimulus
+-taxis: directional
+-kinesis: speed change
+-reflex: automatic movement of body part
+-fixed action pattern: more complex series of behaviors
+
+Fixed Action Pattern: Behavior sequence that continues, even when the stimulus is removed
+-courtship behaviors
+-feeding young
+-circadian rhythms
+
+Learned Behaviors: not instinctive, must be seen and practiced. Can be stopped mid-behavior. Based on life experience
+-Conditioning
+-Habituation
+-Imprinting
+
+Conditioning: Behavioral response to one stimulus is applied also to a different stimulus
+-Dogs drool when they smell food
+-Ring a bell when food is presented
+-Dogs eventually drool both when they smell food and when they hear a the bell

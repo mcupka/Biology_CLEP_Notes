@@ -1,0 +1,15 @@
+3.2.6 Convergence, Extinction, Balanced Polymorphism, Genetic Drift
+
+Convergence: unrelated species evolve similar characteristics due to similar environments
+-ex long tonges of birds/beeds
+
+Extinction: A species disappears from the planet forever
+-Permian Extinction (250m years ago), lost 96% of species on the planet 
+
+Polymorphism: genetic diversity within a species for a particular trait
+
+Balanced Polymorphism: natural selection tends to keep number of forms stable; when one is scarce, its fitness increases
+
+Genetic Drift: random change in allele frequency for a particular trait in a single population
+-Ex storm randomly causes death of most squirrels carrying alleles for light coat color
+------------------------------------------------------------------
