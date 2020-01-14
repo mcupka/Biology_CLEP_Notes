@@ -20,3 +20,37 @@ Conditioning: Behavioral response to one stimulus is applied also to a different
 -Dogs drool when they smell food
 -Ring a bell when food is presented
 -Dogs eventually drool both when they smell food and when they hear a the bell
+
+Habituation: a response that decreases with exposure to a stimulus if no positive or negative result happens
+-respnse decreases if the animal gets no response from it
+-ex cat cries for attention. If you ignore the cat, so nothing good or bad comes of it, the cat eventually stops crying for attention
+
+Imprinting: attachment to another animal or object during critical period (usally shortly after birth / hatching)
+-crane hatchlings see a person right after hatching, instead of another crane. Hatchling imprints on person, following it to learn instead of the a crane
+------------------------------------------------
+
+Innate vs Learned Behaviors
+
+Innate Behaviors:
+-movement and migration
+	-kinesis, moving
+	-taxis, more direct version of kinesis. directed movemnet toward or away from stimulus
+	-migration: long-range seasonal movement of animals
+-living in groups
+	-signals, stimuli than annimals use to communicate with each other
+	-aggressive displays, courtship displays, distraction displays
+
+Altruistic behavior: lowers fitness of the individual behaving but increases the fitness of another individual.
+-Protecting young
+-Birds distracting predators from their nest
+
+
+Intersexual selection: one sex chooses mates of the other
+Intrasexual selection: competition for mates between species members of the same sex
+
+Learned Behaviors:
+-Habituation: getting used to a stimulus that doesn't produce a positive or negative result. No longer stimulated by it after some time.
+-Imprinting
+-Conditioned behavior: stimulus becomes associated with some response
+	-Classical conditioning; Conditioned response becomes associated with conditioned stimulus. Unconditioned stimulus is orginal stimulus.Operant conditioning: positive or negative reinforcement forms conditioning
+-Cognitive learning: manipulation of information using the mind; human learning via books etc.

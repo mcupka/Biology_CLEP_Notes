@@ -1,0 +1,19 @@
+3.3.2 Societies
+
+Society: an organization of individuals in a population. Tasks divided so group works together.
+
+Insect Societies: bees, ants, wasps
+-only queen breeds
+-workers are her daughters
+-different jobs, depending on age
+	-nursery
+	-cleaner
+	-queen care
+	-guard
+	-forager
+
+Primate Societies: built around concept of dominance
+-more dominant individuals get best access to mates, resources
+-individuals compete for status, often when sexual maturity reached by young
+-altruistic behavior common when members related
+------------------------------------------------------------
